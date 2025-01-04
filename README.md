@@ -2,7 +2,7 @@
 simple tool to auto change proxychains setting
 
 ## How this tool work?
-is simple just change ucomment proxy that we wanna use in automation tool, im just to lazy to change manualy
+is simple just change ucomment proxy that we wanna use in automation tool, im just to lazy to change manualy and i want to test my skills in rust programming language
 ```
 proxychanger --help 
 Usage: proxychanger [OPTIONS]
